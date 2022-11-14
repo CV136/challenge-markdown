@@ -17,7 +17,7 @@
 | Gender             | F        |
 | Favorite color     | Vert     |
 | Favorite food      | Chocolat |
-| Pineapple on pizza | <ul><li>- [x] </li></ul> |
+| Pineapple on pizza | <ul><li>- [x] Yes</li><li> - [] No</li></ul> |
 
 
 ----
