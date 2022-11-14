@@ -46,10 +46,10 @@
 ----
 
 ## A funny story
-(????)
+Je suis déjà allée à la bibliothèque un samedi matin, après avoir bien vérifié avant de partir que oui, elle est ouverte le samedi matin, jusqu'à midi, je suis largement dans les heures. Ce n'est qu'en sortant du métro que je me suis souvenue qu'on était le 27 septembre.
 
 ### TL;DR
-(summary)
+Les jours fériés mon cerveau aussi est férié.
 
 ----
 
