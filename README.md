@@ -17,7 +17,7 @@
 | Gender             | F        |
 | Favorite color     | Vert     |
 | Favorite food      | Chocolat |
-| Pineapple on pizza | <input type="checkbox" checked> |
+| Pineapple on pizza | <ul><li>- [x] </li></ul> |
 
 
 ----
