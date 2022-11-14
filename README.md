@@ -11,7 +11,7 @@
 
 
 
-| Question           | Answer   |
+|          |  |
 | ------------------ | -------- |
 | Birthday           | 28/07    |
 | Gender             | F        |
