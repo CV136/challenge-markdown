@@ -19,7 +19,7 @@
 
 | Birthday | Gender | Favorite color | Favorite food | Pineapple on pizza |
 | ---------------------- | --- | --- | --- | --- |
-| 28/07 | F | Vert | Chocolat | <ul><li>- [x] Yes</li></ul> |
+| 28/07 | F | Vert | Chocolat | ✅ |
 
 
 ----
